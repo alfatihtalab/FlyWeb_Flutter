@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404818665246",
+    "project_id": "alosha-fashion",
+    "storage_bucket": "alosha-fashion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404818665246:android:d142bee2d9a8c0822eb30f",
+        "android_client_info": {
+          "package_name": "com.alosha.fashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404818665246-u6rjgeesujqil44b0qeqlbe2e2vjlm88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLfKKi7duLxkzNCB0iFZU008vJm6gqiFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404818665246-u6rjgeesujqil44b0qeqlbe2e2vjlm88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

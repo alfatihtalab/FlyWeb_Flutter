@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/alosha/fashion/BuildConfig.java
+ com.alosha.fashion.BuildConfig

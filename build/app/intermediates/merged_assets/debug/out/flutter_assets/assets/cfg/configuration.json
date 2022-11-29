@@ -1,0 +1,8 @@
+{
+  "api_base_url": "http://alosha.online/flyweb/",
+  "firstColor": "#B1D0E0",
+  "secondColor": "#6998AB",
+  "appIdOneSignal": "9397eeb2-7a70-46db-b164-8f54e7406f0f",
+  "defaultLanguage": "en",
+  "deeplink": "app.flyweb.scheme"
+}
